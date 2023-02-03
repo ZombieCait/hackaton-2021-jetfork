@@ -6,6 +6,7 @@ A solution that we consider based on open source technologies: Postgree SQL is u
 
 
 The comprehensive solution we developed reveals 3 scenario events:
+
 Scenario 1. Checking the correct filling of the category, TNVED and regulations and identifying errors, within the framework of the scenario, the applicant can check himself, and he can also receive recommendations on this choice to obtain the name of the product.
 
 Scenarios 2. Allow you to increase the number of manufacturers' search queries and display information about them on the map.
